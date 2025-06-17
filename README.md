@@ -61,6 +61,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
+### Use the web application now after python main.py runs
+#### Open a browser and go to: http://127.0.0.1:5000
+
+
 Resume files will be stored in the `uploads/` directory. You can change this path in the `main.py` file as needed.
 
 ---
